@@ -3,10 +3,12 @@
 ## Goals for 2025
 
 - Start of B Corp certification process
-- Project management for the implementation of a new module in accounting software
-- Office365 & SharePoint administration
+- Project management for the implementation of a new module in the CRM/accounting software
 - Business process mapping
 - Final part of the apprentice trainer course
+- Complete workplace safety training
+- Conduct chemical hazard safety training
+- Market study and test of different planning and accounting software to replace the current one.
 
 <!-- If it’s getting towards the end of the year, maybe start writing down what
 you think your goals for next year might be. -->
@@ -22,12 +24,46 @@ We have been awarded the ‘Entreprise Formatrice’ label
 ### CDP edition 2024 (Carbon Disclosure Project) (09.2024 - 10.2024)
 I wrote and submitted the CDP 2024 edition the company within 1 month, which also includes updating the values of the company's carbon footprint.
 
+### Environmental label selection (09.2024 - 12.2024)
+analysis of the various environmental labels available on the Swiss market, with the aim of obtaining new certification for the company.
 
 ### Enterprise Architecture Mapping (09.2024 - 12.2024)
-- Application mapping
-- Technical architecture mapping
+- Application mapping using Microsoft Visio
+- Technical architecture mapping using Microsoft Visio
 
-### Data management audit
+### SharePoint (15.11.2024 - 30.11.2024)
+- Bulk opened 150 SharePoint sites
+- Batch addition of users with appropriate access level based on the zero trust access and the Just Enough Access.
+
+### Teams Forms
+- Built quality control forms based on Teams software thanks to a “Teams Form” addon. In order to digitize the quality control process
+- HTML and CSS customization
+- Project was abandoned to avoid cumulating application solutions and redundant data entry in favor of the current ERP system
+
+### ZenDesk
+Tested and deployed Zendesk ticketing service to ensure rapid follow-up of incidents and other customer requests. As well as providing a correct history of incidents to ensure constant quality improvement.
+- customer import
+- macro creation
+
+### Cybersecurity (01.12.2024 - 31.12.2024).
+Proposed quick-win data security measures to management
+Creation of a risk model to define attack surfaces and measures to be taken.
+- Blocking of websites. In particular, sites allowing data to be stored and sent externally.
+- Automatic computer lock after afk of few minutes.
+Suggested list of GPOs to activate to increase data security.
+- Prevent users from syncing libraries and folders shared from other organization
+- Prompt users to confirm when they delete shared content
+ 
+
+## Data management audit
+
+I started documenting all the company's processes. In addition to business processes, I am also covering organizational and strategic aspects, such as the creation of :
+- A decision register for management on SharePoint.
+- A Kanban project management board using MS Planner.
+- Implementation of a logical classification structure based on the decimal method.
+
+I am also responsible for creating and maintaining several repositories to document changes within the IT infrastructure, including in SharePoint and other softwares.
+Either using OneNote for large and heavy document subject to customization or SharePoint lists when appropriate
 
 <!-- For each one, go through:
 
@@ -44,11 +80,9 @@ Remember: don’t forget to explain what the results of you work actually were!
 It’s often important to go back a few months later and fill in what actually
 happened after you launched the project. -->
 
-## Collaboration & mentorship
 
-I started documenting all the company's processes. In addition to business processes, I am also covering organizational and strategic aspects, such as the creation of a decision register for management.
+  
 
-I am also responsible for creating and maintaining several repositories to document changes within the IT infrastructure, including in SharePoint and other softwares.
 
 <!-- Examples of things in this category:
 
@@ -108,16 +142,3 @@ It’s really easy to lose track of what skills you’re learning, and usually w
 I reflect on this I realize I learned a lot more than I thought and also notice
 things that I’m not learning that I wish I was. -->
 
-## Outside of work
-
-<!-- It’s also often useful to track accomplishments outside of work, like:
-
-- blog posts
-- Talks/panels
-- Open source work
-- Industry recognition
-
-I think this can be a nice way to highlight how you’re thinking about your
-career outside of strictly what you’re doing at work. These things are not
-compulsory though and you shouldn't feel pressured to do more than your
-day-to-day work. -->

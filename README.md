@@ -9,30 +9,37 @@
 - Start of training to become an apprentice trainer part 1/2.
 We have been awarded the ‘Entreprise Formatrice’ label
 
+
 ### CDP edition 2024 (Carbon Disclosure Project) (09.2024 - 10.2024)
 I wrote and submitted the CDP 2024 edition the company within 1 month, which also includes updating the values of the company's carbon footprint.
 A grade of D despite my efforts to produce a quality dossier. As well as taking several scenarios into account. It seems that the carbon disclosure project has changed its grading method. But no details were given on the report in question.
 
+
 ### Environmental label selection (09.2024 - 12.2024)
 analysis of the various environmental labels available on the Swiss market for presentation to management, with the aim of obtaining new certification for the company.
+
 
 ### Enterprise Architecture Mapping (09.2024 - 12.2024)
 - Application mapping using Microsoft Visio
 - Technical architecture mapping using Microsoft Visio
+
 
 ### SharePoint (15.11.2024 - 30.11.2024)
 - Bulk opened 150 SharePoint sites
 - Batch addition of users with appropriate access level based on the zero trust access and the Just Enough Access doctrines.
 - Proposal and creation of a single template for customer sites to ensure a standardised view and identical document filing and archiving logic.
 
+
 ### Teams Forms
 - Built quality control forms based on Teams software thanks to a “Teams Form” addon. In order to digitalise the quality control process.
 - HTML and CSS customization.
+
 
 ### ZenDesk
 Tested and deployed Zendesk ticketing service under a week to ensure rapid follow-up of incidents and other customer requests. As well as providing a correct history of incidents to ensure constant quality improvement.
 - customers import.
 - macro creation.
+
 
 ### Cybersecurity (01.12.2024 - 31.12.2024).
 Proposed quick-win data security measures to management
@@ -55,10 +62,12 @@ I started documenting all the company's processes. In addition to business proce
 I am also responsible for creating and maintaining several repositories to document changes within the IT infrastructure, including in SharePoint and other softwares.
 Either using OneNote for large and heavy document subject to customization or SharePoint lists when appropriate
 
+
 ## Design & documentation
 - IT system mapping.
 - Inventories of licences and equipment.
 - Creation of OneNote notebooks with the same decimal filing system to improve the quality of documentation.
+
 
 ## What I learned
 - Admin side of SharePoint
@@ -89,12 +98,14 @@ you think your goals for next year might be. -->
 ### Entreprise formatrice (03.2025)
 - I have completed my training (part. 2/2) and obtained my apprentice trainer certificate.
 
+
 ### Health and safety at work - QHSE (02.2025 - 06.2025)
 I have completed my training to become a ‘Health and Safety at Work’ correspondent.
 - Training that included chemical hazards.
 - hazard identification.
 - Introduction of a quarterly e-mail campaign to raise staff awareness of safety at work.
 - Creation and drafting of a security workbook for the deployment of services to a new customer.
+
 
 ### Employment agencies (02.2025)
 contacted all the employment agencies registered with the canton of Geneva to establish a database of agencies to work with. In particular, according to the agencies offering profiles for our company and field.
@@ -121,6 +132,7 @@ tested and discussed with :
 - Abacus
 - Progiclean -> shortlisted
 - etc.
+
 
 ### Marketing
 - Creation of flyers for recruitment campaigns (Adobe, Canva).
@@ -163,7 +175,7 @@ his first big project”)
 - Giving an internal talk or workshop -->
 
 ## What I learned
-
+- I absolutely abhor HR work with every fibre of my being
 <!-- Try listing important things you learned or skills you’ve acquired recently
 (bonus points if you did a write up on it after)! Some examples of skills you
 might be learning or improving:

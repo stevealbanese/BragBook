@@ -6,7 +6,7 @@
 
 ### Entreprise formatrice (09.2024 - 12.2024)
 - Initiating the company's registration as a training company for *employé de commerce*
-- Start of training to become an apprentice trainer part 1/2.
+- Passed state certification to become an apprentice trainer.
 We have been awarded the ‘Entreprise Formatrice’ label
 
 
@@ -20,7 +20,7 @@ analysis of the various environmental labels available on the Swiss market for p
 
 
 ### Enterprise Architecture Mapping (09.2024 - 12.2024)
-- Application mapping using Microsoft Visio
+- Application mapping using Microsoft Visio and/or Lucid Chart
 - Technical architecture mapping using Microsoft Visio
 
 
@@ -128,7 +128,7 @@ tested and discussed with :
 - Odoo
 - Connecteam
 - Skello
-- GekOS
+- GekOS -> shortlisted
 - Abacus
 - Progiclean -> shortlisted
 - etc.
@@ -137,6 +137,31 @@ tested and discussed with :
 ### Marketing
 - Creation of flyers for recruitment campaigns (Adobe, Canva).
 - Creation of employee flyers for customer site access (Adobe, Canva).
+
+
+### ERP deployment (05. 2025 - 12.2025)
+GekOS -> beta testing and participating in development modules
+
+### New recruitment for interns
+- Solo the whole process
+
+
+Process modelling
+HR process
+
+HR Doc lega
+Wrote new internal documents
+- contracts
+- Code of conducts
+- Internal reglement
+- RGPD notice
+- Social security notice of information
+
+
+
+## What I learned
+- I absolutely abhor HR work with every fibre of my being
+
 <!-- For each one, go through:
 
 - What your contributions were (did you come up with the design? Which
@@ -174,8 +199,7 @@ questions related to Y”)
 his first big project”)
 - Giving an internal talk or workshop -->
 
-## What I learned
-- I absolutely abhor HR work with every fibre of my being
+
 <!-- Try listing important things you learned or skills you’ve acquired recently
 (bonus points if you did a write up on it after)! Some examples of skills you
 might be learning or improving:

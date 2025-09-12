@@ -113,10 +113,10 @@ contacted all the employment agencies registered with the canton of Geneva to es
 
 ### Hiring (02.2025 - 06.2025)
 temporary support and back-up for HR to recruit staff for the roll-out of a new client.
-- recruitment of 40 people.
+- recruitment of 0 people.
 - contacted the employment agencies shortlisted to recruit a sector manager for the company.
 - managed the publication of recruitment vacancies on the website and on recruitment platforms.
-- I managed and sorted over 1,200 applications. Without an automated system.
+- I managed and sorted over 2,500 applications. Without an automated system.
 - I suggested (and the management accepted) that we reroute the vacancies and forms on our website to the recruitment platform in order to centralise all the applications.
 - outbount calls with candidates.
 - scheduling appointments for HR.
@@ -133,7 +133,6 @@ tested and discussed with :
 - Progiclean -> shortlisted
 - etc.
 
-
 ### Marketing
 - Creation of flyers for recruitment campaigns (Adobe, Canva).
 - Creation of employee flyers for customer site access (Adobe, Canva).
@@ -146,17 +145,27 @@ GekOS -> beta testing and participating in development modules
 - Solo the whole process
 
 
-Process modelling
-HR process
+### Process modelling (07.2025 - 12.2025)
+- Process modelling all company processes using BPMN 2.0 methodology
+- Finding bottleneck in process and suggested amelioration and/or automation
+- Root cause analysis
 
-HR Doc lega
+
+### HR Doc legal & compliance (07.2025 - 09.2025)
 Wrote new internal documents
-- contracts
 - Code of conducts
 - Internal reglement
 - RGPD notice
 - Social security notice of information
+- legal information memo
 
+### SAP process modelling formation BPMN 2.0 (08.2025 - 09.2025)
+
+### New ERP developping and deployment
+- Participated in the beta and development of GEKOS.
+
+### All year work
+- Data steward
 
 
 ## What I learned

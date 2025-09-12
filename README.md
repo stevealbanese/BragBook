@@ -167,65 +167,23 @@ Wrote new internal documents
 ### Upgraded Sustainability Note (09.2025)
 - We went from a D to a B in sustainability rating within a client's framework.
 
-### All year work
-- Data steward
+### Data management
+- Documented and modelled all company processes using BPMN 2.0 methodology, identifying bottlenecks and proposing improvements or automation opportunities.
+- Created and maintained repositories in SharePoint and OneNote to track infrastructure changes and ensure knowledge traceability.
+- Established a logical classification and filing structure (decimal method) across tools (SharePoint, OneNote, ERP) to standardize documentation and facilitate retrieval.
+- Developed internal compliance and HR documents (Code of Conduct, Internal Regulation, GDPR notice, Social Security notice, legal information memo) ensuring alignment with legal and regulatory frameworks.
+- Acted as Data Steward, monitoring data flows, guaranteeing integrity, and supporting the sustainability rating upgrade (from D to B) by providing structured, reliable datasets.
+- Supported ERP transition (GekOS) by testing modules, suggesting improvements, and ensuring that process documentation matched the new system’s logic.
 
 
 ## What I learned
-- I absolutely abhor HR work with every fibre of my being
-
-<!-- For each one, go through:
-
-- What your contributions were (did you come up with the design? Which
-components did you build? Was there some useful insight like “wait, we can cut
-scope and do what we want by doing way less work” that you came up with?)
-- The impact of the project – who was it for? Are there numbers you can attach
-to it? (saved X dollars? shipped new feature that has helped sell Y big deals?
-Improved performance by X%? Used by X internal users every day?). Did it support
-some important non-numeric company goal (required to pass an audit? helped
-retain an important user?)
-
-Remember: don’t forget to explain what the results of you work actually were!
-It’s often important to go back a few months later and fill in what actually
-happened after you launched the project. -->
+- HR is not for me → I absolutely abhor HR work with every fibre of my being.
+- Data management is my strong suit → Process modelling, classification systems, and documentation bring clarity and structure, and I enjoy driving improvements in this area.
+- ERP projects are messy but rewarding → Beta testing, negotiating with vendors, and aligning tools with business processes requires patience, persistence, and diplomacy.
+- Compliance adds weight but builds trust → Writing internal regulations, GDPR notices, and codes of conduct made me realize how essential clear governance is.
+- Safety matters → QHSE training reminded me that workplace safety is not a box-ticking exercise but an ongoing awareness effort.
+- Sustainability is a long game → Upgrading ratings and launching certifications (B Corp, labels) is less about quick wins and more about steady, structured progress.
+- No-code ≠ no effort → Tools that promise simplicity still demand technical adaptability and a problem-solving mindset.
 
 
-  
-
-
-<!-- Examples of things in this category:
-
-- Helping others in an area you’re an expert in (like “other engineers regularly
-ask me for one-off help solving weird bugs in their CSS” or “quoting from the C
-standard at just the right moment”)
-
-- Helping new team members get started
-- Writing really clear emails/meeting notes
-- Foundational code that other people built on top of
-- Improving monitoring / dashboards / on call
-- Any code review that you spent a particularly long time on / that you think
-was especially important
-- Important questions you answered (“helped Risha from OTHER_TEAM with a lot of
-questions related to Y”)
-- Mentoring someone on a project (“gave Ben advice from time to time on leading
-his first big project”)
-- Giving an internal talk or workshop -->
-
-
-<!-- Try listing important things you learned or skills you’ve acquired recently
-(bonus points if you did a write up on it after)! Some examples of skills you
-might be learning or improving:
-
-- How to do performance analysis & make code run faster
-- Internals of an important piece of software (like the JVM or Postgres or Linux)
-- How to use a library (like React)
-- How to use an important tool (like the command line or Firefox dev tools)
-- About a specific area of programming (like localization or timezones)
-- A new area like product management / UX design / software engineering
-- How to write a clear design doc
-- A new programming language
-
-It’s really easy to lose track of what skills you’re learning, and usually when
-I reflect on this I realize I learned a lot more than I thought and also notice
-things that I’m not learning that I wish I was. -->
 

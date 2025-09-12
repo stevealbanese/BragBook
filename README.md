@@ -160,9 +160,21 @@ Wrote new internal documents
 - legal information memo
 
 ### SAP process modelling formation BPMN 2.0 (08.2025 - 09.2025)
+- Yay
 
-### New ERP developping and deployment
+### New ERP developping and deployment (08.2025 - 09.2025)
 - Participated in the beta and development of GEKOS.
+- Suggested and tested new modules and/or new display options (planning module,
+- Negociated pricing for the company
+
+### B Corp. (09.2025)
+- Harassed the CEO to finally open a company account on B Corp to start the certification process
+
+### Upgraded Sustainability Note (09.2025)
+- We went from a D to a B in sustainability rating within a client's framework.
+
+
+
 
 ### All year work
 - Data steward

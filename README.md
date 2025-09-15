@@ -30,6 +30,9 @@ analysis of the various environmental labels available on the Swiss market for p
 - Implemented batch user provisioning with appropriate access levels, applying Zero Trust and Just Enough Access principles.
 - Proposed and created a unified customer site template to ensure a standardized view and consistent document filing and archiving logic.
 - Created an internal ticketing form to ensure efficient tracking and improve quality.
+- Finalized the company intranet by completing the configuration and deployment of the SharePoint environment.
+- Developed and structured sub-sites for clients with multiple locations, ensuring consistent navigation and information architecture.
+- Built and maintained SharePoint lists for IT equipment and company vehicles, creating standardized inventories that improved asset tracking and operational visibility.
 
 
 ### Teams Forms (2024 - 2025)
@@ -69,6 +72,10 @@ Either using OneNote for large and heavy document subject to customization or Sh
 - Created structured OneNote notebooks using a decimal filing system, improving documentation quality, accessibility, and consistency.
 
 
+## Design & Communication
+- Proposed and implemented a new corporate PowerPoint template, aligning presentations with a refreshed brand identity and ensuring consistency across teams (12.2024).
+
+
 ## What I learned
 - SharePoint Administration → Acquired hands-on experience in site provisioning, permissions management, and structuring content for collaboration and compliance.
 - Automation & Scripting → Learned to execute batch operations with PowerShell for SharePoint and leveraged Power Automate for workflows, improving efficiency and reducing repetitive tasks.
@@ -90,17 +97,22 @@ Either using OneNote for large and heavy document subject to customization or Sh
 
 ## Projects and work done in 2025
 
+### SharePoint-Based client project (12.2024 – 01.2025)
+- Delivered a SharePoint-based management prototype (client is confidential) and contributed to evaluation activities to improve client operations.
+- Produced for the same client a specific access flyer to facilitate onboarding and ensure smooth collaboration (12.2024 – 01.2025).
 
 ### Entreprise formatrice (03.2025)
 - I have completed my training (part. 2/2) and obtained my apprentice trainer certificate.
 
 
-### Health and safety at work - QHSE (02.2025 - 06.2025)
+### Health and safety at work - QHSE (02.2025 - 08.2025)
 I have completed my training to become a ‘Health and Safety at Work’ correspondent.
 - Training that included chemical hazards.
 - hazard identification.
 - Introduction of a quarterly e-mail campaign to raise staff awareness of safety at work.
 - Creation and drafting of a security workbook for the deployment of services to a new customer.
+- Reorganized the storage of chemical products in compliance with regulatory guidelines, improving workplace safety and audit readiness (08.2025).
+- Collaborating on and producing safety statistics for the company, supporting continuous monitoring and awareness of occupational risks (06.2025).
 
 
 ### Employment agencies (02.2025)

@@ -189,11 +189,11 @@ Wrote new internal documents
 
 
 ## What I learned
-- HR is not for me → I absolutely abhor HR work with every fibre of my being.
+- I absolutely abhor lazy HR people who rely exclusively on ATS to do their work with every fibre of my being.
 - Data management is my strong suit → Process modelling, classification systems, and documentation bring clarity and structure, and I enjoy driving improvements in this area.
-- ERP projects are messy but rewarding → Beta testing, negotiating with vendors, and aligning tools with business processes requires patience, persistence, and diplomacy.
+- ERP projects are messy but rewarding → Beta testing, negotiating with vendors, and aligning tools with business processes requires, persistence, and diplomacy.
 - Compliance adds weight but builds trust → Writing internal regulations, GDPR notices, and codes of conduct made me realize how essential clear governance is.
-- Safety matters → QHSE training reminded me that workplace safety is not a box-ticking exercise but an ongoing awareness effort.
+- Safety matters → QHSE training reminded me that workplace safety is not a box-ticking exercise but an ongoing awareness effort. And you can avoid people being killed.
 - Sustainability is a long game → Upgrading ratings and launching certifications (B Corp, labels) is less about quick wins and more about steady, structured progress.
 - No-code ≠ no effort → Tools that promise simplicity still demand technical adaptability and a problem-solving mindset.
 

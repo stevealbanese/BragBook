@@ -179,6 +179,11 @@ Wrote new internal documents
 ### Upgraded Sustainability Note (09.2025)
 - We went from a D to a B in sustainability rating within a client's framework.
 
+### Hiring new administrative assistant (08.2025 - 10.2025)
+- I've hired a new assistant for the team !
+- So I had to published several job offers and interviewed multiple candidates.
+- The final step was to "sell" the selected person to the Direction. 
+
 ### Data management
 - Documented and modelled all company processes using BPMN 2.0 methodology, identifying bottlenecks and proposing improvements or automation opportunities.
 - Created and maintained repositories in SharePoint and OneNote to track infrastructure changes and ensure knowledge traceability.

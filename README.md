@@ -194,7 +194,6 @@ Wrote new internal documents
 
 
 ## What I learned
-- I absolutely abhor lazy HR people who rely exclusively on ATS to do their work with every fibre of my being.
 - Data management is my strong suit → Process modelling, classification systems, and documentation bring clarity and structure, and I enjoy driving improvements in this area.
 - ERP projects are messy but rewarding → Beta testing, negotiating with vendors, and aligning tools with business processes requires, persistence, and diplomacy.
 - Compliance adds weight but builds trust → Writing internal regulations, GDPR notices, and codes of conduct made me realize how essential clear governance is.

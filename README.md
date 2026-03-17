@@ -25,7 +25,7 @@ analysis of the various environmental labels available on the Swiss market for p
 - Created and maintained software mapping frameworks
 
 
-### SharePoint (15.11.2024 - 30.11.2024)
+### Admin SharePoint (15.11.2024 - 30.11.2024)
 - Bulk opened 150 SharePoint sites to accelerate customer onboarding and reduce setup time.
 - Implemented batch user provisioning with appropriate access levels, applying Zero Trust and Just Enough Access principles.
 - Proposed and created a unified customer site template to ensure a standardized view and consistent document filing and archiving logic.

@@ -145,8 +145,26 @@ tested and discussed with :
 
 
 ### ERP deployment (05. 2025 - 12.2025)
-GekOS -> beta testing and participating in development modules
+articipated in the end-to-end deployment of GekOS, a business ERP dedicated to the planning and management of field interventions.
+Contributed not only as a key user, but also as an active project contributor across several phases of the implementation lifecycle:
 
+Participated in the selection, evaluation, and shortlisting of the ERP solution based on business needs and operational constraints.
+
+Supported the definition of requirements by translating operational needs into concrete system expectations for planning, service management, and administrative workflows.
+
+Took part in co-development efforts with the vendor by suggesting improvements, new modules, and interface/display adaptations aligned with real business usage.
+
+Performed extensive beta testing and functional validation of modules, identifying issues, validating logic, and providing structured feedback to improve system reliability and usability.
+
+Contributed ideas for process optimization and feature evolution, especially around planning and operational management.
+
+Managed and supported large CSV uploads and data handling, including preparation, cleaning, structuring, and integration of significant volumes of operational data into the ERP.
+
+Helped ensure that business processes and documentation were aligned with the logic of the new ERP environment.
+
+Participated in discussions with the vendor, including pricing negotiation and deployment considerations for the company.
+
+This project gave me hands-on exposure to the real complexity of ERP implementation: requirements framing, iterative testing, data migration, business-process alignment, and vendor collaboration.
 ### New recruitment for interns
 - Solo the whole process
 
